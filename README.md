@@ -26,3 +26,11 @@ The api consists of two endpoints:
 
 * `/`: fetches a list of movies.
 * `/{id}`: fetches information about a specific movie by id.
+
+## Task suggestions
+
+* Make the list of movies prettier. Add some css, show the image
+* Make each movie clickable. Show more details about the movie when clicked.
+* Add a search-input.
+* Add filters.
+* Mark movies as favourites. Preserve favourites on page refresh (for instance by adding query parameters and initialise the state from them)
